@@ -1,4 +1,4 @@
-- 👋🏾 Hi, I’m @thein3rovert
+- 👋🏾 Hi, I’m thein3rovert
 - 👩🏾‍💻 I’m interested in web development,UI/UX and Graphic Design
 - 🔧 I’m currently learning Phyton
 - 🤼‍♂️ I’m looking to collaborate on Phyton Projects
