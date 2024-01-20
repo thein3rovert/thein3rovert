@@ -7,19 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/thein3rovert" target="blank"><img src="https://img.shields.io/twitter/follow/thein3rovert?logo=twitter&style=for-the-badge" alt="thein3rovert" /></a> </p>
 
-- 🔭 I’m currently working on **a Halloween responsive website**
+- 🔭 I’m currently working on **a Hospital Management System**
 
 - 🌱 I’m currently learning **Computer Science**
 
 - 👯 I’m looking to collaborate on **any available project**
 
-- 🤝 I’m looking for help with **my Halloween Responsive Website**
+- 🤝 I’m looking for help with **my hospital management project**
 
-- 💬 Ask me about **any HTML,CSS AND JAVA related questions**
+- 💬 Ask me about **any HTML,CSS,Javascripts AND JAVA related questions**
 
 - 📫 How to reach me **danielolaibi@gmail.com**
-
-- ⚡ Fun fact **I am an introvert with an interesting personality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
