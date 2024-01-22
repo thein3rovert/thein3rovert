@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on **a Hospital Management System**
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently studying **Computer Science**
 
 - 👯 I’m looking to collaborate on **any available project**
 
-- 🤝 I’m looking for help with **my hospital management project**
-
-- 💬 Ask me about **any HTML,CSS,Javascripts AND JAVA related questions**
+- 💬 Ask me about **any HTML,CSS,Javascripts and Java related questions**
 
 - 📫 How to reach me **danielolaibi@gmail.com**
 
