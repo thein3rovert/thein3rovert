@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm thein3rovert</h1>
-<h3 align="center">I love learning</h3>
+<h1 align="center">Hi👋, I'm thein3rovert</h1>
+<h3 align="center">A Humble and Growing Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thein3rovert&label=Profile%20views&color=0e75b6&style=flat" alt="thein3rovert" /> </p>
 
