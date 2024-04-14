@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **danielolaibi@gmail.com**
 
+[![Thein3rovert GitHub stats](https://github-readme-stats.vercel.app/api?username=thein3rovert)](https://github.com/thein3roverta/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
