@@ -1,21 +1,27 @@
-<h1 align="center">Hi👋, I'm thein3rovert</h1>
-<h3 align="center">A Humble and Growing Developer</h3>
+<div> 
+  <h1 align="center">Hi👋, I'm Samad Olaibi</h1>
+  <h3 align="center">A Humble and Growing Software Engineer</h3>
+  <h3>Studying [Computer Science] at Brunel London University, London.</h3>
+  <h3>Currently studing and learning Java and DSA</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thein3rovert&label=Profile%20views&color=0e75b6&style=flat" alt="thein3rovert" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thein3rovert&label=Profile%20views&color=0e75b6&style=flat" alt="thein3rovert"/>
+</p>
 
 <p align="left"> <a href="https://twitter.com/thein3rovert" target="blank"><img src="https://img.shields.io/twitter/follow/thein3rovert?logo=twitter&style=for-the-badge" alt="thein3rovert" /></a> </p>
 
-- 🔭 I’m currently working on **a Hospital Management System**
+- 🔭 I’m currently working on **DSA AND JAVA**
 
-- 🌱 I’m currently studying **Computer Science**
+- 🌱 I’m currently studying **Computer Science** at Brunel London University.
 
-- 👯 I’m looking to collaborate on **any available project**
+- 👯 I’m looking to collaborate on **any available project** related to Java and React. 
 
-- 💬 Ask me about **any HTML,CSS,Javascripts and Java related questions**
+- 💬 Ask me about **Java, DSA and React related questions** 
 
 - 📫 How to reach me **danielolaibi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/thein3rovert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thein3rovert" height="30" width="40" /></a>
 <a href="https://instagram.com/thein3rovert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thein3rovert" height="30" width="40" /></a>
