@@ -19,10 +19,8 @@
 - 💬 Ask me about **Java, DSA and React related questions** 
 
 - 📫 How to reach me **danielolaibi@gmail.com**
-
-[![Thein3rovert GitHub stats](https://github-readme-stats.vercel.app/api?username=thein3rovert)](https://github.com/thein3roverta/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thein3rovert&show_icons=true&theme=transparent)
+(https://github.com/thein3roverta/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 
