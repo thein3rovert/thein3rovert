@@ -7,7 +7,8 @@
 </p>
 
 <p align="left"> <a href="https://twitter.com/thein3rovert" target="blank"><img src="https://img.shields.io/twitter/follow/thein3rovert?logo=twitter&style=for-the-badge" alt="thein3rovert" /></a> </p>
-- 🌱 A Humble and Growing Software Engineer
+
+- 🌱A Humble and Growing Software Engineer
 
 - 🔭 I’m currently working on **DSA AND JAVA**
 
