@@ -1,9 +1,10 @@
+## 👋🏾 Hi, I'm Samad!
 
-- 🌱A Humble and Growing Software Engineer
+- 👨🏾 A Humble and Growing Software Engineer
 
 - 🔭 I’m currently working on **DSA AND JAVA**
 
-- 🌱 I’m currently studying **Computer Science** at Brunel London University.
+- 👨🏾‍🎓 I’m currently studying **Computer Science** at Brunel London University.
 
 - 👯 I’m looking to collaborate on **any available project** related to Java and React. 
 
