@@ -11,8 +11,7 @@
 - 💬 Ask me about **Java, DSA and React related questions** 
 
 - 📫 How to reach me **danielolaibi@gmail.com**
-- 
-
+  
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thein3rovert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamadOlaibi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/thein3rovert) 
 
