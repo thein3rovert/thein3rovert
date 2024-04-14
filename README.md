@@ -22,6 +22,8 @@
 
 [![Thein3rovert GitHub stats](https://github-readme-stats.vercel.app/api?username=thein3rovert)](https://github.com/thein3roverta/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thein3rovert&show_icons=true&theme=transparent)
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
