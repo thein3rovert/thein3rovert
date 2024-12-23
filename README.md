@@ -1,4 +1,5 @@
-const samad = {
+```
+const samad: Human = {
   name: "Samad Adekunle Olaibi",
   title: "Computer Science Student",
   hobbies: ["Hiking", "Camping", "Cycling", "Programming"],
@@ -6,3 +7,4 @@ const samad = {
   website: "Coming soon 🚀",
   email: "danielolaibi@gmail.com",
 };
+```
