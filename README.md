@@ -1,4 +1,4 @@
-```
+```js
 const samad: Human = {
   name: "Samad Adekunle Olaibi",
   title: "Computer Science Student",
