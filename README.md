@@ -4,25 +4,23 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/363383882315464705)
 ![intellij](https://api.statusbadges.me/badge/intellij/363383882315464705)
 [![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
-```elixir
-const createUser = () => {
-  const user = {
-    name: "Samad Olaibi",
-    role: "Software Engineer",
-    languages: ["Yoruba", "English"]
+```nix
+let
+  createUser = {
+    user = {
+      name = "Samad Olaibi";
+      role = "Software Engineer";
+      languages = [ "Yoruba" "English" ];
+    };
+    
+    userInfo = ''
+      Name: ${user.name}
+      Role: ${user.role}
+      Spoken Languages: ${builtins.concatStringsSep ", " user.languages}
+    '';
   };
-
-  const userInfo = `
-    Name: ${user.name}
-    Role: ${user.role}
-    Spoken Languages: ${user.languages.join(", ")}
-  `;
-
-  console.log(userInfo);
-};
-
-createUser();
-
+in
+  builtins.trace createUser.userInfo createUser
 ```
 `"Maybe if we spent more time..."`
 
