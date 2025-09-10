@@ -24,7 +24,7 @@ in
 ```
 `"Maybe if we spent more time..."`
 
-👨🏾 I am a computer Science Student at Brunel London University and love programming in Java. 
+👨🏾 I am a computer Science Student at Brunel London University.
 
 👨🏾 I currently have a blog where I post my techincal documentation and productive things occasionally.
 
