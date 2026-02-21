@@ -1,4 +1,4 @@
-```
+```nix
 let
   createUser = rec {
     user = {
