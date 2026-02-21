@@ -1,3 +1,4 @@
+```
 let
   createUser = rec {
     user = {
@@ -18,3 +19,4 @@ let
   };
 in
   builtins.trace createUser.userInfo createUser
+```
